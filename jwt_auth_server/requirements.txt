@@ -1,0 +1,12 @@
+sqlalchemy~=2.0.25
+fastapi~=0.103.0
+python-dotenv~=1.0.1
+loguru~=0.5.3
+rich~=13.3.5
+pydantic~=2.5.3
+slowapi~=0.1.9
+starlette~=0.27.0
+fastapi
+pyjwt~=2.4.0
+python-multipart
+passlib~=1.7.4
